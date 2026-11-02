@@ -1,7 +1,7 @@
-package com.varsha.device_api;
+package com.krishna.device_api;
 
-import com.varsha.device_api.audit.RequestAuditRepository;
-import com.varsha.device_api.repository.DeviceEventRepository;
+import com.krishna.device_api.audit.RequestAuditRepository;
+import com.krishna.device_api.repository.DeviceEventRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

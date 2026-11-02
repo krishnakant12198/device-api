@@ -1,9 +1,9 @@
-package com.varsha.device_api.service.impl;
+package com.krishna.device_api.service.impl;
 
-import com.varsha.device_api.dto.DevicePayload;
-import com.varsha.device_api.entity.DeviceEvent;
-import com.varsha.device_api.repository.DeviceEventRepository;
-import com.varsha.device_api.service.DeviceEventService;
+import com.krishna.device_api.dto.DevicePayload;
+import com.krishna.device_api.entity.DeviceEvent;
+import com.krishna.device_api.repository.DeviceEventRepository;
+import com.krishna.device_api.service.DeviceEventService;
 import org.springframework.stereotype.Service;
 
 import java.time.Instant;

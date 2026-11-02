@@ -1,6 +1,6 @@
-package com.varsha.device_api.entity;
+package com.krishna.device_api.entity;
 
-import com.varsha.device_api.dto.DevicePayload;
+import com.krishna.device_api.dto.DevicePayload;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

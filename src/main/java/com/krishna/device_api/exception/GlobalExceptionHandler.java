@@ -1,4 +1,4 @@
-package com.varsha.device_api.exception;
+package com.krishna.device_api.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

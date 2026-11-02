@@ -1,6 +1,6 @@
-package com.varsha.device_api.audit;
+package com.krishna.device_api.audit;
 
-import com.varsha.device_api.security.TokenAuthFilter;
+import com.krishna.device_api.security.TokenAuthFilter;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

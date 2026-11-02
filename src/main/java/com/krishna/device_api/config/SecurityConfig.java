@@ -1,7 +1,7 @@
-package com.varsha.device_api.config;
+package com.krishna.device_api.config;
 
-import com.varsha.device_api.audit.RequestAuditFilter;
-import com.varsha.device_api.security.TokenAuthFilter;
+import com.krishna.device_api.audit.RequestAuditFilter;
+import com.krishna.device_api.security.TokenAuthFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.Customizer;

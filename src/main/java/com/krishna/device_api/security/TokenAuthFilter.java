@@ -1,4 +1,4 @@
-package com.varsha.device_api.security;
+package com.krishna.device_api.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

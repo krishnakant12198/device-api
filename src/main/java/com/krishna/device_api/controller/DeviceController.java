@@ -1,7 +1,7 @@
-package com.varsha.device_api.controller;
+package com.krishna.device_api.controller;
 
-import com.varsha.device_api.dto.DevicePayload;
-import com.varsha.device_api.service.DeviceEventService;
+import com.krishna.device_api.dto.DevicePayload;
+import com.krishna.device_api.service.DeviceEventService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;

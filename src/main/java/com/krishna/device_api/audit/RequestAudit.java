@@ -1,4 +1,4 @@
-package com.varsha.device_api.audit;
+package com.krishna.device_api.audit;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
